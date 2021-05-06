@@ -1,0 +1,2 @@
+SELECT QueueId, Id, SobjectType FROM QueueSobject
+
